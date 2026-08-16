@@ -4,4 +4,4 @@
 
 | Демо | Исходник | Репо | Живая ссылка |
 |---|---|---|---|
-| КвалитеТ | https://qualityclinic.ru | https://github.com/roman1pr/kvalitet-demo | собирается |
+| КвалитеТ | https://qualityclinic.ru | https://github.com/roman1pr/kvalitet-demo | https://kvalitet-demo.vercel.app |
